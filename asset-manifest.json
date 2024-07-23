@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c148488.css",
+    "main.js": "/static/js/main.d3c77880.js",
+    "static/js/453.8c0a66e0.chunk.js": "/static/js/453.8c0a66e0.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/CircularSpotifyText-Bold.otf": "/static/media/CircularSpotifyText-Bold.f8952626140be9495d1b.otf",
+    "static/media/CircularSpotifyText-Medium.otf": "/static/media/CircularSpotifyText-Medium.7f8341c6940468e86d8d.otf",
+    "static/media/CircularSpotifyText-Book.otf": "/static/media/CircularSpotifyText-Book.27bc05ead5cc509ef2ba.otf",
+    "index.html": "/index.html",
+    "main.4c148488.css.map": "/static/css/main.4c148488.css.map",
+    "main.d3c77880.js.map": "/static/js/main.d3c77880.js.map",
+    "453.8c0a66e0.chunk.js.map": "/static/js/453.8c0a66e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c148488.css",
+    "static/js/main.d3c77880.js"
+  ]
+}
